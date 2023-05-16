@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106582725353",
+    "firebase_url": "https://live-train-365007-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "live-train-365007",
+    "storage_bucket": "live-train-365007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106582725353:android:89281105a54e8d163f1678",
+        "android_client_info": {
+          "package_name": "com.example.live_railway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106582725353-dh82cmod8d3gtmchedbcee8aeeknohbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP6AfSmBrOnB5GAzloAd98wDr8kQar7C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106582725353-dh82cmod8d3gtmchedbcee8aeeknohbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
