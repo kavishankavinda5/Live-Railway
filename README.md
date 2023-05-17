@@ -9,7 +9,7 @@ Live Railway is a mobile application developed using Flutter that provides live 
 
 ## How It Works
 
-Any passenger traveling in the train can use this app and activate enable live train, any person can see the location of the train live through this app.
+Any passenger traveling in the train can use this app and activate the option "Enable live Train ". Then any person can see live train location by using this app.
 
 ## APP Screenshots 
 ![4](https://github.com/kavishankavinda5/Live-Railway/assets/75110057/312cfc29-519d-4d79-aae5-c6e01df446eb)
